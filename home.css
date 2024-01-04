@@ -1,4 +1,6 @@
 
+
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
@@ -185,6 +187,9 @@
     bottom: 45px;
     z-index: 99;
 }
+.card{
+    height: 100vh;
+    background-color: rgba(76, 220, 76, 0.597);
 /*** Button ***/
 .btn {
     font-family: 'Inter', sans-serif;
